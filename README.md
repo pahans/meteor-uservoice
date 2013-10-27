@@ -1,4 +1,4 @@
 meteor-uservoice
 ================
 
-user voice integration for meteor
+UserVoice integration for meteor
